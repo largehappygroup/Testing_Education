@@ -11,21 +11,19 @@ Homework Assignment #4 consists of two tasks: (1) MarsRover and (2) BowlingScore
 
 ## Important Notes
 
-1. 🟢 **TestCompass:** You are *required* to use [TestCompass](https://plugins.jetbrains.com/plugin/30034-vandytest), with proper prompts, to assist you in this homework. The screen recording (explained below) you submit should demonstrate your compliance with this requirement. 
-
-**TestCompass** is an IntelliJ IDEA plugin that can help you reason about what behavior to test, suggest useful test scenarios, and review whether your JUnit tests cover the task requirements; to use it, install the plugin in IntelliJ IDEA, open the task project, select or open the relevant source/test files, and prompt TestCompass for test ideas or coverage feedback while you write your tests.
+1. 🟢 **TestCompass:** You are *required* to use [TestCompass](https://plugins.jetbrains.com/plugin/30034-vandytest), with proper prompts, to assist you in this homework. The screen recording (explained below) you submit should demonstrate your compliance with this requirement. **TestCompass** is an IntelliJ IDEA plugin that can help you reason about what behavior to test, suggest useful test scenarios, and review whether your JUnit tests cover the task requirements; to use it, install the plugin in IntelliJ IDEA, open the task project, select or open the relevant source/test files, and prompt TestCompass for test ideas or coverage feedback while you write your tests.
 
 
-1. **Order of Completion:** You *must* complete the two tasks in the specified order. That is, you should begin with *MarsRover*, followed by *BowlingScoreKeeper*. You must also complete both tasks in a single session, with allowances for short breaks only. The screen recording (explained below) you submit should demonstrate your compliance with these requirements.
+2. **Order of Completion:** You *must* complete the two tasks in the specified order. That is, you should begin with *MarsRover*, followed by *BowlingScoreKeeper*. You must also complete both tasks in a single session, with allowances for short breaks only. The screen recording (explained below) you submit should demonstrate your compliance with these requirements.
 
-1. **Recording:** For this homework, you *must* record your screen from the moment you start working on the first tasks until you have completed them all. You may read through this README file and the README files for the two tasks ([MarsRover](./MarsRover/README.md) and [BowlingScoreKeeper](./BowlingScoreKeeper/README.md)) *before* you start recording. However, please begin your screen recording prior to initiating the cloning of this repository, and continue recording throughout the completion of all assigned tasks (i.e. both MarsRover and BowlingScoreKeeper). Do not stop the recording until after you have successfully submitted all the required zip files.
+3. **Recording:** For this homework, you *must* record your screen from the moment you start working on the first tasks until you have completed them all. You may read through this README file and the README files for the two tasks ([MarsRover](./MarsRover/README.md) and [BowlingScoreKeeper](./BowlingScoreKeeper/README.md)) *before* you start recording. However, please begin your screen recording prior to initiating the cloning of this repository, and continue recording throughout the completion of all assigned tasks (i.e. both MarsRover and BowlingScoreKeeper). Do not stop the recording until after you have successfully submitted all the required zip files.
 
-1. **Timing Constraints:** Each task has a designated time limit — 20 minutes for MarsRover and 60 minutes for BowlingScoreKeeper. These durations have been carefully tested and determined and should be sufficient for you to achieve satisfactory performances. While we understand that technical issues can arise, you are permitted a time extension of up to 20% beyond these limits if necessary. You may read through the README files for each task ([MarsRover](./MarsRover/README.md) and [BowlingScoreKeeper](./BowlingScoreKeeper/README.md)) to familiarize yourself with the requirements before you begin the actual timing of your work in IntelliJ IDEA. 
+4. **Timing Constraints:** Each task has a designated time limit — 20 minutes for MarsRover and 60 minutes for BowlingScoreKeeper. These durations have been carefully tested and determined and should be sufficient for you to achieve satisfactory performance. While we understand that technical issues can arise, you are permitted a time extension of up to 20% beyond these limits if necessary. You may read through the README files for each task ([MarsRover](./MarsRover/README.md) and [BowlingScoreKeeper](./BowlingScoreKeeper/README.md)) to familiarize yourself with the requirements before you begin the actual timing of your work in IntelliJ IDEA. 
 
 In other words, you should time yourself starting at the moment when you start working in IntelliJ IDEA. The screen recording you submit should demonstrate your compliance with these timing constraints, from the initiation to the completion of each task.
 
 
-1. **Operating System:** You may use any operating system to complete this assignment, provided all activities are conducted within an IntelliJ IDEA.
+1. **Operating System:** You may use any operating system to complete this assignment, provided all activities are conducted within IntelliJ IDEA.
 
 Below, we have provided guidance to help you get started.
 
@@ -33,7 +31,7 @@ Below, we have provided guidance to help you get started.
 
 ## Task 0 Start Recording
 
-*To successfully complete this homework, you must record your screen while working.*
+*To complete this homework, you must record your screen while working.*
 
 #### For macOS Users:
 
