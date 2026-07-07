@@ -16,11 +16,11 @@ You are provided with a completed project that contains two implementation class
 
 You are expected to create JUnit test cases to verify the behavior of this implementation as thoroughly as possible based on the following description of a bowling score keeper.
 
-This local project does not include a `BowlingException` class, so do not write tests that expect exception/error-handling behavior that is not present in `Frame.java` or `BowlingGame.java`.
+Do not write tests that are not present in `Frame.java` or `BowlingGame.java`.
 
 **Bowling Score Keeper Task Description**
 
-The game consists of 10 frames as shown below. In each frame the player has two opportunities to knock down 10 pins. The score for the frame is the total number of pins knocked down, plus bonuses for strikes and spares.
+The game consists of 10 frames as shown below. In each frame, the player has two opportunities to knock down 10 pins. The score for the frame is the total number of pins knocked down, plus bonuses for strikes and spares.
 
 ![BowlingScoreKeeperExample](https://github.com/largehappygroup/HW4-G2/assets/89805831/04786a3a-648d-4017-8652-3d647ab103dd)
 
@@ -51,8 +51,6 @@ In the tenth frame, a player who rolls a spare or strike is allowed to have bonu
 - Req 11: If the tenth frame is a spare, there is one bonus throw.
 - Req 12: If the tenth frame is a strike, there are two bonus throws.
 - Req 13: The bonus throw(s) are added to the game score.
-- Req 14: In this local implementation, frames added after the first ten frames are ignored.
-- Req 15: In this local implementation, if a needed future frame or tenth-frame bonus has not been added yet, the missing bonus contributes 0 to the current score.
 
 **Submission**
 
