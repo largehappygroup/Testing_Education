@@ -1,6 +1,6 @@
-# CS 4278/5278: Homework #4 — Instructions
+# CS xxxx: Homework #x — Instructions
 
-Homework Assignment #4 consists of two tasks: (1) MarsRover and (2) BowlingScoreKeeper. 
+ This homework consists of two tasks: (1) MarsRover and (2) BowlingScoreKeeper. 
 
 #### Table of Contents
 * [Important Notes](#important-notes)
