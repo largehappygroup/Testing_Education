@@ -18,7 +18,7 @@
 
 3. **Recording:** For this homework, you *must* record your screen from the moment you start working on the first tasks until you have completed them all. You may read through this README file and the README files for the two tasks ([MarsRover](./MarsRover/README.md) and [BowlingScoreKeeper](./BowlingScoreKeeper/README.md)) *before* you start recording. However, please begin your screen recording prior to initiating the cloning of this repository, and continue recording throughout the completion of all assigned tasks (i.e., both MarsRover and BowlingScoreKeeper). Do not stop the recording until after you have successfully submitted all the required zip files.
 
-4. **Timing Constraints:** Each task has a designated time limit — 20 minutes for MarsRover and 60 minutes for BowlingScoreKeeper. These durations have been carefully tested and determined and should be sufficient for you to achieve satisfactory performance. While we understand that technical issues can arise, you are permitted a time extension of up to 20% beyond these limits if necessary. You may read through the README files for each task ([MarsRover](./MarsRover/README.md) and [BowlingScoreKeeper](./BowlingScoreKeeper/README.md)) to familiarize yourself with the requirements before you begin the actual timing of your work in IntelliJ IDEA. 
+4. **Timing Constraints:** Each task has a designated time limit — 40 minutes for MarsRover and 60 minutes for BowlingScoreKeeper. These durations have been carefully tested and determined and should be sufficient for you to achieve satisfactory performance. While we understand that technical issues can arise, you are permitted a time extension of up to 20% beyond these limits if necessary. You may read through the README files for each task ([MarsRover](./MarsRover/README.md) and [BowlingScoreKeeper](./BowlingScoreKeeper/README.md)) to familiarize yourself with the requirements before you begin the actual timing of your work in IntelliJ IDEA. 
 
 In other words, you should time yourself starting at the moment when you start working in IntelliJ IDEA. The screen recording you submit should demonstrate your compliance with these timing constraints, from the initiation to the completion of each task.
 
@@ -31,7 +31,7 @@ Below, we have provided guidance to help you get started.
 
 ## Task 0 Start Recording
 
-*To complete this homework, you must record your screen while working.*
+*To complete this homework, you must record your screen separately while working on each of the two tasks. Therefore, you will need to submit two separate screen recordings in total.*
 
 #### For macOS Users:
 
@@ -77,15 +77,16 @@ This is a testing task, not an implementation task. Your goal is to add JUnit te
 - Work only in `MarsRover/src/MarsRoverTest.java`.
 - Do not modify `MarsRover/src/MarsRover.java`.
 - You may keep, change, or remove the starter example test, as long as your final test file thoroughly verifies the required behavior.
-- Time limit: 20 minutes, with up to 20% extra time if needed.
+- Time limit: 40 minutes, with up to 20% extra time if needed.
 
-**Submission Instruction**
+**Submission Instructions **
 
-1. Make sure your finished work is saved in `MarsRover/src/MarsRoverTest.java`.
-2. Close IntelliJ IDEA if needed so all files are fully written to disk.
-3. Compress the entire `MarsRover` folder into a zip file.
-4. Rename the zip file to `<VUnetID_Task1>.zip`.
-5. Submit `<VUnetID_Task1>.zip` via Box using the link sent to your Vanderbilt email.
+1. Make sure your completed work is saved in `MarsRover/src/MarsRoverTest.java`.
+2. Close IntelliJ IDEA, if necessary, to ensure all files are fully saved to disk.
+3. You may now stop the screen recording. Save the recording to your local computer and rename it as `<VUnetID_Video_Task1>`.
+4. Compress the entire `MarsRover` folder into a `.zip` file.
+5. Rename the ZIP file to `<VUnetID_Task1>.zip`.
+6. Submit `<VUnetID_Task1>.zip` and `<VUnetID_Video_Task1>` through Box using the submission link sent to your Vanderbilt email.
 
 Congratulations, you just finished Task 1. Continue to [Task 2 BowlingScoreKeeper](./BowlingScoreKeeper/README.md).
 
@@ -107,17 +108,17 @@ This is also a testing task. Your goal is to add JUnit tests that check the beha
 - You may keep, change, or remove the starter example tests, as long as your final test files thoroughly verify the required behavior.
 - Time limit: 60 minutes, with up to 20% extra time if needed.
 
-**Submission Instruction**
+**Submission Instructions **
 
 1. Make sure your finished work is saved in `BowlingScoreKeeper/src/FrameTest.java` and `BowlingScoreKeeper/src/BowlingGameTest.java`.
 2. Close IntelliJ IDEA if needed so all files are fully written to disk.
-3. Compress the entire `BowlingScoreKeeper` folder into a zip file.
-4. Rename the zip file to `<VUnetID_Task2>.zip`.
-5. Submit `<VUnetID_Task2>.zip` via Box using the link sent to your Vanderbilt email.
+3. You may now stop the screen recording. Save the recording to your local computer and rename it as `<VUnetID_Video_Task2>`.
+4. Compress the entire `BowlingScoreKeeper` folder into a zip file.
+5. Rename the zip file to `<VUnetID_Task2>.zip`.
+6. Submit `<VUnetID_Task2>.zip` and `<VUnetID_Video_Task2>` via Box using the link sent to your Vanderbilt email.
 
 Congratulations, you just finished ALL tasks in this study!!! 
 
 ## Task 3 Submission
-- You are free to stop screen recording now, please save it to a local disk and rename it as <VUnetID_Video> and submit it via Box. (Use the Box invitation link in your Vanderbilt Email)
-- A final checklist for all the files you should have submitted via Box by now: (1) <VUnetID_Task1>.zip, (2) <VUnetID_Task2>.zip, and (3) <VUnetID_Video>
+- A final checklist for all the files you should have submitted via Box by now: (1) <VUnetID_Task1>.zip, (2) <VUnetID_Task2>.zip, (3) <VUnetID_Video_Task1>, and (4) <VUnetID_Video_Task2>.
 - Please fill out a short [post-survey](https://forms.gle/LaPSAGRiftBBkX2p7)!
