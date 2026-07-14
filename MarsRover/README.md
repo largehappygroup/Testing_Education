@@ -6,8 +6,8 @@ The objective is to TEST an API that follows the movement of a planet exploratio
 - There is no graphical user interface.
 - You ONLY work in `MarsRoverTest.java` and write JUnit test cases based on the requirement.
 - Do not modify `MarsRover.java`.
-- You have 20 minutes to work on this task (if needed, you may exceed this limit by up to 20%).
-- You are free to consult/use any online resources, including documentations, tutorials, and Q&A sites.
+- You have 40 minutes to work on this task (if needed, you may exceed this limit by up to 20%).
+- You are free to consult/use any online resources, including documentation, tutorials, and Q&A sites.
 
 **Project Template**
 
@@ -47,7 +47,7 @@ Note that the API that you are testing does not have a graphical user interface.
 - Req 4: Moving forward or backward changes position but does not change facing.
 - Req 5: The planet grid wraps around at the edges.
 - Req 6: Obstacles are provided as coordinate pairs.
-- Req 7: If the rover would move into an obstacle, it stays in its current position.
+- Req 7: If the rover moves into an obstacle, it stays in its current position.
 - Req 8: After encountering an obstacle, the rover continues executing the remaining commands.
 - Req 9: The same obstacle is reported only once.
 - Req 10: Multiple encountered obstacles are reported in the order they are found.
@@ -56,4 +56,4 @@ Note that the API that you are testing does not have a graphical user interface.
 
 **Submission**
 
-Make sure your finished work is saved in `src/MarsRoverTest.java`. Submit the complete `MarsRover` project folder as instructed in the main assignment README.
+Make sure your finished work is saved in `src/MarsRoverTest.java`. Submit the complete `MarsRover` project folder and video as instructed in the main assignment README.
