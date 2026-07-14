@@ -54,4 +54,4 @@ In the tenth frame, a player who rolls a spare or strike is allowed to have bonu
 
 **Submission**
 
-Make sure your finished work is saved in `src/FrameTest.java` and `src/BowlingGameTest.java`. Submit the complete `BowlingScoreKeeper` project folder as instructed in the main assignment README.
+Make sure your finished work is saved in `src/FrameTest.java` and `src/BowlingGameTest.java`. Submit the complete `BowlingScoreKeeper` project folder and video as instructed in the main assignment README.
